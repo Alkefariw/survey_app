@@ -1128,6 +1128,7 @@ class _CoursesSurveyState extends State<CoursesSurvey> {
     final Map<String, dynamic> responses = {
       'ClassNumber': _classNum,
       'CourseSection': _courseSection,
+      'ProfessorName': _professorName,
       'CourseSatisfied': _courseSatisfied,
       'WhatChanges': _whatChanges,
       'ClassRating': _classRating,
